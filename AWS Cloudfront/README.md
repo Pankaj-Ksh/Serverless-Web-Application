@@ -13,8 +13,6 @@ CloudFront provides **global low-latency delivery** for the React frontend hoste
 
 ---
 
-## 📸 Screenshots & Descriptions
-
 ### 1. Start CloudFront Distribution Setup 🚀  
 **Description:**  
 Initial **Create Distribution** step:  
